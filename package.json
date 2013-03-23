@@ -1,6 +1,6 @@
 {
   "name": "mikenchin-routes",
-  "version": "0.0.0-1",
+  "version": "0.0.1-0",
   "description": "More expressive and modular route description.",
   "main": "index.js",
   "directories": {
