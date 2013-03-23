@@ -1,0 +1,19 @@
+{
+  "name": "mikenchin-routes",
+  "version": "0.0.0-1",
+  "description": "More expressive and modular route description.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikanda/routes.git"
+  },
+  "author": "mikanda IT Solutions",
+  "license": "LGPL",
+  "readmeFilename": "Readme.md"
+}
