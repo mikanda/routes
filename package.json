@@ -15,5 +15,8 @@
   },
   "author": "mikanda IT Solutions",
   "license": "LGPL",
-  "readmeFilename": "Readme.md"
+  "readmeFilename": "Readme.md",
+  "dependencies": {
+    "async": "~0.2.7"
+  }
 }
